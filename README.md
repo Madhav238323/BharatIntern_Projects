@@ -21,13 +21,17 @@ This repository also includes the official offer letter from Bharat Intern. Each
 
 ## Projects
 
-- Titanic Classification Project (file:///C:/Users/barde/Downloads/titanic-project-bharatintern.pdf)
-- Cat & Dog Image Classifier (file:///C:/Users/barde/Downloads/Cat&Dog_image_classifier_Project_BharatIntern.pdf)
-- SMS Classifier (file:///C:/Users/barde/Downloads/ms-classifier-project-bharatintern.pdf)
-- Offer Letter (file:///C:/Users/barde/Downloads/28555_Madhav%20Barde%20_Data%20Science.pdf)
+- Titanic Classification Project [titanic-project-bharatintern.pdf](https://github.com/user-attachments/files/15858693/titanic-project-bharatintern.pdf)
+- Cat & Dog Image Classifier  [Cat&Dog_image_classifier_Project_BharatIntern.pdf](https://github.com/user-attachments/files/15858689/Cat.Dog_image_classifier_Project_BharatIntern.pdf)
+- SMS Classifier [ms-classifier-project-bharatintern.pdf](https://github.com/user-attachments/files/15858690/ms-classifier-project-bharatintern.pdf)
+- Offer Letter [28555_Madhav Barde _Data Science.pdf](https://github.com/user-attachments/files/15858694/28555_Madhav.Barde._Data.Science.pdf)
 
 ## Contact
 
-For any inquiries, please contact me at bardemadhv49@gmail.com.
+For any inquiries, please contact me at bardemadhv49@gmail.com
 
 
+[Cat&Dog_image_classifier_Project_BharatIntern.pdf](https://github.com/user-attachments/files/15858689/Cat.Dog_image_classifier_Project_BharatIntern.pdf)
+[ms-classifier-project-bharatintern.pdf](https://github.com/user-attachments/files/15858690/ms-classifier-project-bharatintern.pdf)
+[titanic-project-bharatintern.pdf](https://github.com/user-attachments/files/15858693/titanic-project-bharatintern.pdf)
+[28555_Madhav Barde _Data Science.pdf](https://github.com/user-attachments/files/15858694/28555_Madhav.Barde._Data.Science.pdf)
